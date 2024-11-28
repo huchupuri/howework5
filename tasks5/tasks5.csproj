@@ -1,0 +1,152 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource2\img_1 — копия %280%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %281%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2810%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2811%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2812%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2813%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2814%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2815%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2816%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2817%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2818%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2819%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %282%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2820%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2821%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2822%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2823%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2824%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2825%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2826%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2827%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2828%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2829%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %283%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2830%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %2831%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %284%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %285%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %286%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %287%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %288%29.jpg" />
+    <None Remove="Resource2\img_1 — копия %289%29.jpg" />
+    <None Remove="Resource2\students.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resource2\img_1 — копия (0).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (1).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (10).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (11).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (12).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (13).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (14).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (15).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (16).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (17).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (18).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (19).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (2).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (20).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (21).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (22).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (23).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (24).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (25).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (26).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (27).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (28).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (29).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (3).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (30).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (31).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (4).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (5).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (6).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (7).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (8).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\img_1 — копия (9).jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resource2\students.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>
